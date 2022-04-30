@@ -11,6 +11,6 @@ O jogo:
 Trata-se do jogo da velha onde com dois usuarios usam um board "xadrez" para inserir um "X" ou "O",neste caso representados por um rato e um gato, em que um deles tenta fechar uma sequencia de linha em horizontal, vertical ou diagonal sem que seja interrompido pelo outro.
 
 <div align="center">
-    <img src="./jogovelha.png">
+    <img src="jogovelha.png">
 </div>
 
